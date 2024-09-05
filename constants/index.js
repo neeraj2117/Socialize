@@ -1,0 +1,2 @@
+export const supabaseUrl = "https://libsceixxguqcnleoomj.supabase.co"
+export const supabaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxpYnNjZWl4eGd1cWNubGVvb21qIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjQzNDg3NDIsImV4cCI6MjAzOTkyNDc0Mn0.QLTRY6XlmP0F8uJmF1O4aPHqK4iPc6ms-SNWYp-crO0"
